@@ -1,0 +1,2 @@
+class VMonitorServer(object):
+    pass

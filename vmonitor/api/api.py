@@ -1,0 +1,2 @@
+class VMonitorManager(object):
+    pass

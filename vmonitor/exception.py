@@ -1,0 +1,2 @@
+class VMonitorException(object):
+    pass

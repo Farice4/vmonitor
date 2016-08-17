@@ -1,0 +1,2 @@
+class VMonitorClient(object):
+    pass
